@@ -1,1 +1,9 @@
-[]
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+          "namespace": "tippit_clean",
+          "package_name": "com.example.tippit_clean",
+          "sha256_cert_fingerprints":
+          ["D7:1E:3B:13:69:79:66:01:5C:C7:D1:A5:65:57:E4:6C:12:29:C6:47:E4:71:2B:53:58:6E:BC:CC:E1:2F:10:60"]
+        }
+  }]
